@@ -1,6 +1,0 @@
-﻿<Solution>
-  <Project Path="Assembly-CSharp.csproj" />
-  <Project Path="GameAnalyticsSDK.csproj" />
-  <Project Path="GameAnalyticsSDK.Editor.csproj" />
-  <Project Path="Assembly-CSharp-Editor.csproj" />
-</Solution>
